@@ -1,0 +1,10 @@
+pin 1: e+
+pin 2: e-
+pin5: a- 
+pin4: a+ 
+
+
+R - dt - 3
+O - gnd
+Y - sck - 2
+G - vccq
